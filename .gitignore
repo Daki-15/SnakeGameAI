@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.vscode/
+
+# IDE settings
+.idea/
+*.iml
+
+# Dependency Management
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest
+pytest_cache/
+
+# Coverage
+htmlcov/
+
+# Translations
+*.mo
+
+# Django
+*.log
+*.pot
+
+# Flask
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+__pycache__/
+dist/
+build/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
